@@ -4,6 +4,10 @@ A 13.56 MHz NFC module based on the NXP PN532. Use the onboard USB-C port to tes
 
 ![PN532 module front view](images/01-NFC-Module.jpg)
 
+[Click View PN532 Module Schematic](./NFC-PN532_Schematic.pdf)</br>
+[Click View PN532 Chip Datasheet](./NFC-PN532_Datasheet.pdf)</br>
+[Click View PN532 Module 3D](./NFC-PN532_3D.step)
+
 ## Set the interface
 
 Disconnect power before changing the DIP switches. Use the printed **ON** mark and the numbers **1** and **2** on the switch body as your reference.
